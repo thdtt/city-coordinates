@@ -1,0 +1,763 @@
+Sofia,42.6979,23.3217,Bulgaria,BG,Sofia-Grad,primary,1355142,1355142
+Varna,43.2114,27.9111,Bulgaria,BG,Varna,admin,369162,369162
+Plovdiv,42.1433,24.7489,Bulgaria,BG,Plovdiv,admin,340494,297685
+Burgas,42.5000,27.4667,Bulgaria,BG,Burgas,admin,226868,226868
+Ruse,43.8445,25.9539,Bulgaria,BG,Ruse,admin,163712,163712
+Stara Zagora,42.4257,25.6346,Bulgaria,BG,Stara Zagora,admin,158668,158668
+Pleven,43.4132,24.6169,Bulgaria,BG,Pleven,admin,123588,123588
+Sliven,42.6781,26.3260,Bulgaria,BG,Sliven,admin,107570,107570
+Dobrich,43.5667,27.8333,Bulgaria,BG,Dobrich,admin,104530,104530
+Shumen,43.2700,26.9244,Bulgaria,BG,Shumen,admin,97719,97719
+Haskovo,41.9346,25.5556,Bulgaria,BG,Haskovo,admin,93821,93821
+Pazardzhik,42.1892,24.3317,Bulgaria,BG,Pazardzhik,admin,84619,84619
+Yambol,42.4824,26.5038,Bulgaria,BG,Yambol,admin,84232,84232
+Pernik,42.6097,23.0308,Bulgaria,BG,Pernik,admin,83973,83973
+Blagoevgrad,42.0119,23.0897,Bulgaria,BG,Blagoevgrad,admin,82606,82606
+Veliko Tarnovo,43.0822,25.6317,Bulgaria,BG,Veliko Tarnovo,admin,72207,72207
+Vratsa,43.2121,23.5444,Bulgaria,BG,Vratsa,admin,69493,69493
+Kardzhali,41.6400,25.3708,Bulgaria,BG,Kardzhali,admin,66128,66128
+Kyustendil,42.2811,22.6889,Bulgaria,BG,Kyustendil,admin,63359,63359
+Gabrovo,42.8711,25.3150,Bulgaria,BG,Gabrovo,admin,62938,62938
+Asenovgrad,42.0082,24.8773,Bulgaria,BG,Plovdiv,,59793,59793
+Vidin,43.9887,22.8741,Bulgaria,BG,Vidin,admin,58018,58018
+Kazanlak,42.6167,25.4000,Bulgaria,BG,Stara Zagora,,56047,56047
+Montana,43.4055,23.2242,Bulgaria,BG,Montana,admin,49597,49597
+Targovishte,43.2414,26.5719,Bulgaria,BG,Targovishte,admin,45535,45535
+Dimitrovgrad,42.0611,25.5933,Bulgaria,BG,Haskovo,,45098,45098
+Silistra,44.1186,27.2603,Bulgaria,BG,Silistra,admin,42651,42651
+Lovech,43.1342,24.7172,Bulgaria,BG,Lovech,admin,42343,42343
+Razgrad,43.5267,26.5242,Bulgaria,BG,Razgrad,admin,41909,41909
+Petrich,41.3981,23.2069,Bulgaria,BG,Blagoevgrad,,40728,40728
+Dupnitsa,42.2650,23.1185,Bulgaria,BG,Kyustendil,,39467,39467
+Gorna Oryahovitsa,43.1222,25.6897,Bulgaria,BG,Veliko Tarnovo,,35031,35031
+Smolyan,41.5753,24.7128,Bulgaria,BG,Smolyan,admin,31548,31548
+Sandanski,41.5589,23.2744,Bulgaria,BG,Blagoevgrad,,30695,30695
+Samokov,42.3381,23.5600,Bulgaria,BG,Sofia,,29094,29094
+Nova Zagora,42.4903,26.0122,Bulgaria,BG,Sliven,,26660,26660
+Karlovo,42.6420,24.8082,Bulgaria,BG,Plovdiv,,25919,25919
+Velingrad,42.0276,23.9913,Bulgaria,BG,Pazardzhik,minor,25764,25764
+Sevlievo,43.0258,25.1039,Bulgaria,BG,Gabrovo,,25372,25372
+Lom,43.8272,23.2364,Bulgaria,BG,Montana,minor,25172,25172
+Aytos,42.6990,27.2490,Bulgaria,BG,Burgas,,24750,24750
+Svishtov,43.6113,25.3569,Bulgaria,BG,Veliko Tarnovo,minor,24459,24459
+Harmanli,41.9238,25.9183,Bulgaria,BG,Haskovo,,23932,23932
+Troyan,42.8844,24.7094,Bulgaria,BG,Lovech,,23520,23520
+Botevgrad,42.9073,23.7937,Bulgaria,BG,Sofia,,22742,22742
+Gotse Delchev,41.5737,23.7291,Bulgaria,BG,Blagoevgrad,,21969,21969
+Peshtera,42.0340,24.3025,Bulgaria,BG,Pazardzhik,minor,21824,21824
+Karnobat,42.6513,26.9855,Bulgaria,BG,Burgas,,20411,20411
+Svilengrad,41.7652,26.2030,Bulgaria,BG,Haskovo,,20390,20390
+Momchilgrad,41.5297,25.4064,Bulgaria,BG,Kardzhali,,19609,19609
+Panagyurishte,42.5026,24.1802,Bulgaria,BG,Pazardzhik,minor,18350,18350
+Popovo,43.3481,26.2275,Bulgaria,BG,Targovishte,,17703,17703
+Chirpan,42.1981,25.3304,Bulgaria,BG,Stara Zagora,,17522,17522
+Rakovski,42.2884,24.9655,Bulgaria,BG,Plovdiv,,16731,16731
+Parvomay,42.0994,25.2242,Bulgaria,BG,Plovdiv,,15518,15518
+Provadia,43.1694,27.4428,Bulgaria,BG,Varna,,15095,15095
+Berkovitsa,43.2371,23.1251,Bulgaria,BG,Montana,minor,14993,14993
+Novi Pazar,43.3476,27.1981,Bulgaria,BG,Shumen,,14931,14931
+Radomir,42.5467,22.9642,Bulgaria,BG,Pernik,,14880,14880
+Ihtiman,42.4333,23.8167,Bulgaria,BG,Sofia,,14656,14656
+Pomorie,42.5569,27.6405,Bulgaria,BG,Burgas,minor,14634,14634
+Novi Iskar,42.8031,23.3436,Bulgaria,BG,Sofia-Grad,,13768,13768
+Nesebar,42.6608,27.7139,Bulgaria,BG,Burgas,minor,13559,13559
+Radnevo,42.2886,25.9336,Bulgaria,BG,Stara Zagora,,13554,13554
+Balchik,43.4078,28.1622,Bulgaria,BG,Dobrich,minor,13393,13393
+Razlog,41.8865,23.4680,Bulgaria,BG,Blagoevgrad,,13158,13158
+Byala Slatina,43.4688,23.9454,Bulgaria,BG,Vratsa,,12935,12935
+Kozloduy,43.7764,23.7294,Bulgaria,BG,Vratsa,minor,12400,12400
+Kavarna,43.4333,28.3389,Bulgaria,BG,Dobrich,minor,12369,12369
+Stamboliyski,42.1332,24.5379,Bulgaria,BG,Plovdiv,,12346,12346
+Pavlikeni,43.2375,25.3074,Bulgaria,BG,Veliko Tarnovo,,11921,11921
+Isperih,43.7204,26.8281,Bulgaria,BG,Razgrad,,11797,11797
+Mezdra,43.1425,23.7142,Bulgaria,BG,Vratsa,,11719,11719
+Kostinbrod,42.8101,23.2168,Bulgaria,BG,Sofia,,11430,11430
+Etropole,42.8333,24.0000,Bulgaria,BG,Sofia,,11292,11292
+Bankya,42.7069,23.1472,Bulgaria,BG,Sofia-Grad,,11233,11233
+Knezha,43.4931,24.0806,Bulgaria,BG,Vratsa,minor,11124,11124
+Elhovo,42.1719,26.5658,Bulgaria,BG,Yambol,,10929,10929
+Omurtag,43.1072,26.4192,Bulgaria,BG,Targovishte,,10825,10825
+Tutrakan,44.0481,26.6044,Bulgaria,BG,Silistra,minor,10370,10370
+Ardino,41.5829,25.1332,Bulgaria,BG,Kardzhali,,10336,10336
+Lukovit,43.2102,24.1629,Bulgaria,BG,Lovech,,10316,10316
+Teteven,42.9177,24.2574,Bulgaria,BG,Lovech,,10279,10279
+Kubrat,43.7967,26.5011,Bulgaria,BG,Razgrad,minor,10011,10011
+Tryavna,42.8667,25.4919,Bulgaria,BG,Gabrovo,,9634,9634
+Bansko,41.8385,23.4888,Bulgaria,BG,Blagoevgrad,,9497,9497
+Sredets,42.3461,27.1808,Bulgaria,BG,Burgas,,9237,9237
+Veliki Preslav,43.1614,26.8125,Bulgaria,BG,Shumen,,9196,9196
+Krichim,42.0426,24.4646,Bulgaria,BG,Plovdiv,,9188,9188
+Devnya,43.2180,27.5580,Bulgaria,BG,Varna,,9036,9036
+Rakitovo,41.9900,24.0872,Bulgaria,BG,Pazardzhik,minor,8977,8977
+Septemvri,42.2164,24.1250,Bulgaria,BG,Pazardzhik,minor,8813,8813
+Krumovgrad,41.4709,25.6546,Bulgaria,BG,Kardzhali,minor,8800,8800
+Belo Pole,42.0328,23.0500,Bulgaria,BG,Blagoevgrad,,8739,8739
+Lyaskovets,43.1081,25.7132,Bulgaria,BG,Veliko Tarnovo,,8728,8728
+Simeonovgrad,42.0324,25.8345,Bulgaria,BG,Haskovo,,8539,8539
+Dzhebel,41.5000,25.3000,Bulgaria,BG,Kardzhali,minor,8514,8514
+Dulovo,43.8229,27.1412,Bulgaria,BG,Silistra,,8493,8493
+Aksakovo,43.2608,27.8159,Bulgaria,BG,Varna,,8164,8164
+Belene,43.6456,25.1258,Bulgaria,BG,Pleven,minor,8122,8122
+Beloslav,43.1892,27.7050,Bulgaria,BG,Varna,minor,8017,8017
+Svoge,42.9594,23.3477,Bulgaria,BG,Sofia,,8003,8003
+Dryanovo,42.9736,25.4747,Bulgaria,BG,Gabrovo,,7908,7908
+Lyubimets,41.8445,26.0810,Bulgaria,BG,Haskovo,,7892,7892
+Tervel,43.7500,27.4000,Bulgaria,BG,Dobrich,minor,7632,7632
+Zlatograd,41.3797,25.0928,Bulgaria,BG,Smolyan,minor,7623,7623
+Dolni Chiflik,42.9931,27.7158,Bulgaria,BG,Varna,,7557,7557
+Simitli,41.8914,23.1117,Bulgaria,BG,Blagoevgrad,,7372,7372
+Pirdop,42.7000,24.1833,Bulgaria,BG,Sofia,,7353,7353
+Kuklen,42.0343,24.7878,Bulgaria,BG,Plovdiv,,7331,7331
+Slivnitsa,42.8515,23.0383,Bulgaria,BG,Sofia,minor,7320,7320
+Elin Pelin,42.6689,23.6025,Bulgaria,BG,Sofia,,7189,7189
+General Toshevo,43.7006,28.0367,Bulgaria,BG,Dobrich,minor,7157,7157
+Devin,41.7425,24.3992,Bulgaria,BG,Smolyan,minor,6859,6859
+Aydemir,44.1000,27.1667,Bulgaria,BG,Silistra,,6784,6784
+Kostenets,42.3075,23.8575,Bulgaria,BG,Sofia,,6777,6777
+Tvarditsa,42.7017,25.8975,Bulgaria,BG,Sliven,,6711,6711
+Straldzha,42.6000,26.6833,Bulgaria,BG,Yambol,,6635,6635
+Varshets,43.1953,23.2858,Bulgaria,BG,Montana,minor,6500,6500
+Tsarevo,42.1708,27.8511,Bulgaria,BG,Burgas,,6196,6196
+Kotel,42.8863,26.4500,Bulgaria,BG,Sliven,,6021,6021
+Lozen,42.6000,23.4833,Bulgaria,BG,Sofia-Grad,,5965,5965
+Yakoruda,42.0183,23.6697,Bulgaria,BG,Blagoevgrad,,5813,5813
+Kameno,42.5667,27.3000,Bulgaria,BG,Burgas,,5788,5788
+Belogradchik,43.6269,22.6833,Bulgaria,BG,Vidin,minor,5775,5775
+Elena,42.9298,25.8787,Bulgaria,BG,Veliko Tarnovo,,5742,5742
+Vetovo,43.7000,26.2667,Bulgaria,BG,Ruse,,5707,5707
+Topolovgrad,42.0842,26.3375,Bulgaria,BG,Haskovo,,5659,5659
+Bobov Dol,42.3638,22.9979,Bulgaria,BG,Kyustendil,minor,5651,5651
+Strazhitsa,43.2333,25.9667,Bulgaria,BG,Veliko Tarnovo,,5589,5589
+Riltsi,42.0401,23.0656,Bulgaria,BG,Blagoevgrad,,5489,5489
+Benkovski,41.3833,25.2667,Bulgaria,BG,Kardzhali,,5379,5379
+Oryahovo,43.7389,23.9612,Bulgaria,BG,Vratsa,minor,5367,5367
+Chepelare,41.7233,24.6861,Bulgaria,BG,Smolyan,,5262,5262
+Suvorovo,43.3300,27.5925,Bulgaria,BG,Varna,,5214,5214
+Perushtitsa,42.0561,24.5444,Bulgaria,BG,Plovdiv,,5162,5162
+Zlatitsa,42.7134,24.1391,Bulgaria,BG,Sofia,,5139,5139
+Yablanovo,42.9833,26.5500,Bulgaria,BG,Sliven,,5137,5137
+Bozhurishte,42.7500,23.2000,Bulgaria,BG,Sofia,,5047,5047
+Draginovo,42.0667,24.0167,Bulgaria,BG,Pazardzhik,,5012,5012
+Bistritsa,42.5861,23.3600,Bulgaria,BG,Sofia-Grad,,4988,4988
+Polski Trambesh,43.3676,25.6319,Bulgaria,BG,Veliko Tarnovo,,4980,4980
+Dalgopol,43.0498,27.3463,Bulgaria,BG,Varna,,4958,4958
+Rozino,42.7000,24.5500,Bulgaria,BG,Plovdiv,,4952,4952
+Sozopol,42.4187,27.6943,Bulgaria,BG,Burgas,minor,4837,4837
+Dolna Banya,42.3000,23.7667,Bulgaria,BG,Sofia,,4810,4810
+Logodazh,41.9892,22.9358,Bulgaria,BG,Blagoevgrad,,4745,4745
+Koynare,43.3573,24.1450,Bulgaria,BG,Pleven,,4700,4700
+Trastenik,43.5207,24.4716,Bulgaria,BG,Pleven,,4560,4560
+Dolni Dabnik,43.4089,24.4402,Bulgaria,BG,Pleven,,4548,4548
+Kazichene,42.6667,23.4667,Bulgaria,BG,Sofia-Grad,,4519,4519
+Dve Mogili,43.6000,25.8667,Bulgaria,BG,Ruse,minor,4463,4463
+Kostandovo,42.0167,24.1167,Bulgaria,BG,Pazardzhik,,4456,4456
+Ignatievo,43.2500,27.7667,Bulgaria,BG,Varna,,4426,4426
+Kalipetrovo,44.0833,27.2333,Bulgaria,BG,Silistra,,4412,4412
+Shivachevo,42.6833,26.0333,Bulgaria,BG,Sliven,,4387,4387
+Varbitsa,42.9931,26.6721,Bulgaria,BG,Shumen,,4379,4379
+Pravets,42.8944,23.9156,Bulgaria,BG,Sofia,,4363,4363
+Nikopol,43.6986,24.8924,Bulgaria,BG,Pleven,minor,4346,4346
+Nedelino,41.4597,25.0770,Bulgaria,BG,Smolyan,minor,4339,4339
+Slavyanovo,43.4652,24.8722,Bulgaria,BG,Pleven,,4335,4335
+Strelcha,42.5064,24.3211,Bulgaria,BG,Pazardzhik,,4277,4277
+Glodzhevo,43.7329,26.3878,Bulgaria,BG,Ruse,,4249,4249
+Godech,43.0150,23.0442,Bulgaria,BG,Sofia,minor,4209,4209
+Bukovlak,43.4500,24.6167,Bulgaria,BG,Pleven,,4207,4207
+Letnitsa,43.3167,25.0667,Bulgaria,BG,Lovech,,4204,4204
+Bratsigovo,42.0231,24.3696,Bulgaria,BG,Pazardzhik,,4072,4072
+Malo Konare,42.2000,24.4333,Bulgaria,BG,Pazardzhik,,4067,4067
+Sapareva Banya,42.2874,23.2589,Bulgaria,BG,Kyustendil,,4060,4060
+Belovo,42.2146,24.0201,Bulgaria,BG,Pazardzhik,,4057,4057
+Dyankovo,43.6167,26.6000,Bulgaria,BG,Razgrad,,4055,4055
+Breznik,42.7400,22.9083,Bulgaria,BG,Pernik,,4020,4020
+Trud,42.2333,24.7333,Bulgaria,BG,Plovdiv,,4017,4017
+Smyadovo,43.0667,27.0167,Bulgaria,BG,Shumen,,4009,4009
+Rudozem,41.4892,24.8454,Bulgaria,BG,Smolyan,minor,3981,3981
+Slivo Pole,43.9419,26.2064,Bulgaria,BG,Ruse,minor,3926,3926
+Zavet,43.7591,26.6751,Bulgaria,BG,Razgrad,minor,3920,3920
+Belozem,42.2000,25.0333,Bulgaria,BG,Plovdiv,,3919,3919
+Debelets,43.0438,25.6218,Bulgaria,BG,Veliko Tarnovo,,3907,3907
+Breznitsa,41.6719,23.6580,Bulgaria,BG,Blagoevgrad,,3876,3876
+Ivaylovgrad,41.5281,26.1244,Bulgaria,BG,Haskovo,,3816,3816
+Tsalapitsa,42.1833,24.5667,Bulgaria,BG,Plovdiv,,3785,3785
+Sarnitsa,41.7375,24.0243,Bulgaria,BG,Pazardzhik,minor,3688,3688
+Marten,43.9204,26.0848,Bulgaria,BG,Ruse,,3672,3672
+Kresna,41.7202,23.1608,Bulgaria,BG,Blagoevgrad,,3640,3640
+Sungurlare,42.7619,26.7736,Bulgaria,BG,Burgas,,3625,3625
+Vladaya,42.6333,23.2000,Bulgaria,BG,Sofia-Grad,,3558,3558
+Stara Kresna,41.7900,23.1808,Bulgaria,BG,Blagoevgrad,,3534,3534
+Brestovene,43.7667,26.5833,Bulgaria,BG,Razgrad,,3533,3533
+Chorbadzhiysko,41.3736,25.4065,Bulgaria,BG,Kardzhali,,3518,3518
+Iskar,43.4500,24.2667,Bulgaria,BG,Pleven,,3512,3512
+Yasenovets,43.5733,26.6247,Bulgaria,BG,Razgrad,,3502,3502
+Kran,42.6667,25.3833,Bulgaria,BG,Stara Zagora,,3501,3501
+Pokrovnik,41.9823,23.0538,Bulgaria,BG,Blagoevgrad,,3481,3481
+Dolna Mitropolia,43.4678,24.5206,Bulgaria,BG,Pleven,,3469,3469
+Primorsko,42.2669,27.7550,Bulgaria,BG,Burgas,minor,3442,3442
+Selanovtsi,43.6833,24.0167,Bulgaria,BG,Vratsa,,3440,3440
+Kochan,41.5833,24.0333,Bulgaria,BG,Blagoevgrad,,3437,3437
+Zarnevo,43.6333,27.3333,Bulgaria,BG,Dobrich,,3419,3419
+Vrachesh,42.8921,23.7494,Bulgaria,BG,Sofia,,3418,3418
+Gulyantsi,43.6371,24.6904,Bulgaria,BG,Pleven,minor,3407,3407
+Yagodovo,42.1000,24.8500,Bulgaria,BG,Plovdiv,,3385,3385
+Maglizh,42.6083,25.5456,Bulgaria,BG,Stara Zagora,,3371,3371
+Valchedram,43.6961,23.4448,Bulgaria,BG,Montana,minor,3364,3364
+Krivodol,43.3717,23.4813,Bulgaria,BG,Vratsa,,3346,3346
+Belitsa,41.9478,23.5629,Bulgaria,BG,Blagoevgrad,,3337,3337
+Aleko Konstantinovo,42.1597,24.2844,Bulgaria,BG,Pazardzhik,,3324,3324
+Yoakim-Gruevo,42.1167,24.5667,Bulgaria,BG,Plovdiv,,3321,3321
+Nikolaevo,42.6296,25.7888,Bulgaria,BG,Stara Zagora,,3298,3298
+Shabla,43.5333,28.5333,Bulgaria,BG,Dobrich,minor,3276,3276
+Dragoman,42.9217,22.9297,Bulgaria,BG,Sofia,minor,3264,3264
+Smirnenski,43.7667,26.3000,Bulgaria,BG,Ruse,,3252,3252
+Yasenkovo,43.5456,26.8381,Bulgaria,BG,Shumen,,3246,3246
+Branipole,42.0833,24.7500,Bulgaria,BG,Plovdiv,,3240,3240
+Kaolinovo,43.6167,27.0917,Bulgaria,BG,Shumen,,3227,3227
+Sveti Vlas,42.7167,27.7667,Bulgaria,BG,Burgas,,3226,3226
+Valchidol,43.4000,27.5500,Bulgaria,BG,Varna,,3218,3218
+Gurkovo,42.6606,25.7919,Bulgaria,BG,Stara Zagora,,3207,3207
+Ezerche,43.5500,26.3167,Bulgaria,BG,Razgrad,,3177,3177
+Ivaylo,42.2167,24.3333,Bulgaria,BG,Pazardzhik,,3149,3149
+Roman,43.1500,23.9167,Bulgaria,BG,Vratsa,,3131,3131
+Mizia,43.6833,23.8500,Bulgaria,BG,Vratsa,minor,3126,3126
+Ruen,42.8000,27.2833,Bulgaria,BG,Burgas,,3116,3116
+Kula,43.8833,22.5167,Bulgaria,BG,Vidin,minor,3110,3110
+Rogosh,42.1833,24.8667,Bulgaria,BG,Plovdiv,,3109,3109
+Batak,41.9440,24.2178,Bulgaria,BG,Pazardzhik,minor,3099,3099
+Ribnovo,41.7167,23.7667,Bulgaria,BG,Blagoevgrad,,3085,3085
+Yagoda,42.5500,25.6000,Bulgaria,BG,Stara Zagora,,3079,3079
+Topoli,43.2183,27.8214,Bulgaria,BG,Varna,,3031,3031
+Trudovets,42.9167,23.8333,Bulgaria,BG,Sofia,,3026,3026
+Ostrovo,43.6839,26.6072,Bulgaria,BG,Razgrad,,2984,2984
+Kalofer,42.6112,24.9748,Bulgaria,BG,Plovdiv,,2984,2984
+Kamenar,43.2493,27.8999,Bulgaria,BG,Varna,,2968,2968
+Krumovo,42.0833,24.8167,Bulgaria,BG,Plovdiv,,2963,2963
+Voluyak,42.7667,23.2500,Bulgaria,BG,Sofia-Grad,,2960,2960
+Pancharevo,42.5830,23.4000,Bulgaria,BG,Sofia-Grad,,2930,2930
+Pavel Banya,42.5972,25.2075,Bulgaria,BG,Stara Zagora,,2922,2922
+Banya,41.8794,23.5269,Bulgaria,BG,Blagoevgrad,,2915,2915
+Kableshkovo,42.6601,27.5680,Bulgaria,BG,Burgas,,2911,2911
+Dorkovo,42.0469,24.1319,Bulgaria,BG,Pazardzhik,,2901,2901
+Koprinka,42.6333,25.3333,Bulgaria,BG,Stara Zagora,,2901,2901
+Draganovo,43.2167,25.7500,Bulgaria,BG,Veliko Tarnovo,,2895,2895
+Manole,42.1833,24.9333,Bulgaria,BG,Plovdiv,,2887,2887
+Dolna Oryahovitsa,43.1565,25.7391,Bulgaria,BG,Veliko Tarnovo,,2884,2884
+Ustina,42.0333,24.5167,Bulgaria,BG,Plovdiv,,2873,2873
+Opaka,43.4474,26.1736,Bulgaria,BG,Targovishte,,2842,2842
+Hadzhidimovo,41.5155,23.8526,Bulgaria,BG,Blagoevgrad,,2839,2839
+Staro Oryahovo,42.9896,27.7998,Bulgaria,BG,Varna,,2826,2826
+Borino,41.6833,24.2833,Bulgaria,BG,Smolyan,minor,2822,2822
+Archar,43.8108,22.9181,Bulgaria,BG,Vidin,,2822,2822
+Iskra,44.0000,26.9833,Bulgaria,BG,Silistra,,2821,2821
+Dobrinishte,41.8210,23.5634,Bulgaria,BG,Blagoevgrad,,2818,2818
+Yablanitsa,43.0250,24.1000,Bulgaria,BG,Lovech,,2810,2810
+Loznitsa,43.3715,26.5987,Bulgaria,BG,Razgrad,,2807,2807
+Sotirya,42.6833,26.4000,Bulgaria,BG,Sliven,,2804,2804
+Tsonevo,43.0333,27.4333,Bulgaria,BG,Varna,,2797,2797
+Bezmer,43.7667,27.4167,Bulgaria,BG,Dobrich,,2789,2789
+Novo Selo,42.1050,24.4830,Bulgaria,BG,Plovdiv,,2780,2780
+Valkosel,41.5333,23.9833,Bulgaria,BG,Blagoevgrad,,2780,2780
+Zlataritsa,43.0442,25.8897,Bulgaria,BG,Veliko Tarnovo,,2753,2753
+Buhovo,42.7638,23.5658,Bulgaria,BG,Sofia-Grad,,2752,2752
+Bolyartsi,42.0667,24.9667,Bulgaria,BG,Plovdiv,,2751,2751
+Kalekovets,42.2333,24.8167,Bulgaria,BG,Plovdiv,,2741,2741
+Ugarchin,43.1000,24.4167,Bulgaria,BG,Lovech,,2728,2728
+Samuil,43.5167,26.7500,Bulgaria,BG,Razgrad,,2723,2723
+Byala Cherkva,43.2051,25.3106,Bulgaria,BG,Veliko Tarnovo,,2715,2715
+Kliment,43.6167,27.0000,Bulgaria,BG,Shumen,,2692,2692
+Nova Mahala,41.9333,24.2833,Bulgaria,BG,Pazardzhik,,2676,2676
+Tran,42.8365,22.6510,Bulgaria,BG,Pernik,minor,2646,2646
+Kurtovo Konare,42.0928,24.5019,Bulgaria,BG,Plovdiv,,2638,2638
+Sadovo,42.1304,24.9385,Bulgaria,BG,Plovdiv,,2636,2636
+Markovo,42.0667,24.7000,Bulgaria,BG,Plovdiv,,2621,2621
+Galata,43.0167,24.2833,Bulgaria,BG,Lovech,,2587,2587
+Debren,41.5843,23.8228,Bulgaria,BG,Blagoevgrad,,2586,2586
+German,42.6167,23.4167,Bulgaria,BG,Sofia-Grad,,2572,2572
+Byal Izvor,41.5500,25.0833,Bulgaria,BG,Kardzhali,,2563,2563
+Podayva,43.6719,26.9161,Bulgaria,BG,Razgrad,,2559,2559
+Grozdyovo,43.0167,27.5333,Bulgaria,BG,Varna,,2533,2533
+Novi Han,42.6000,23.6000,Bulgaria,BG,Sofia,,2532,2532
+Apriltsi,42.8399,24.9200,Bulgaria,BG,Lovech,,2527,2527
+Ognyanovo,42.1500,24.4167,Bulgaria,BG,Pazardzhik,,2524,2524
+Rila,42.1268,23.1307,Bulgaria,BG,Kyustendil,,2511,2511
+Parvomaytsi,43.1530,25.6521,Bulgaria,BG,Veliko Tarnovo,,2494,2494
+Valnari,43.6000,27.2167,Bulgaria,BG,Shumen,,2481,2481
+Skutare,42.1833,24.8333,Bulgaria,BG,Plovdiv,,2462,2462
+Kilifarevo,42.9943,25.6205,Bulgaria,BG,Veliko Tarnovo,,2448,2448
+Glavinitsa,42.1581,24.3103,Bulgaria,BG,Pazardzhik,,2433,2433
+Dospat,41.6458,24.1605,Bulgaria,BG,Smolyan,minor,2431,2431
+Gluhar,41.5953,25.3935,Bulgaria,BG,Kardzhali,,2429,2429
+Satovcha,41.6193,23.9769,Bulgaria,BG,Blagoevgrad,,2429,2429
+Chepintsi,42.7667,23.4333,Bulgaria,BG,Sofia-Grad,,2427,2427
+Sevar,43.8333,26.5833,Bulgaria,BG,Razgrad,,2408,2408
+Bregovo,44.1500,22.6500,Bulgaria,BG,Vidin,minor,2400,2400
+Branichevo,43.6800,27.0994,Bulgaria,BG,Shumen,,2384,2384
+Shtraklevo,43.7167,26.0500,Bulgaria,BG,Ruse,,2374,2374
+Kornitsa,41.6406,23.6764,Bulgaria,BG,Blagoevgrad,,2358,2358
+Dermantsi,43.1500,24.2833,Bulgaria,BG,Lovech,,2357,2357
+Rani List,41.6833,25.4000,Bulgaria,BG,Kardzhali,,2353,2353
+Sadovets,43.3000,24.3500,Bulgaria,BG,Pleven,,2349,2349
+Obrochishte,43.4031,28.0455,Bulgaria,BG,Dobrich,,2348,2348
+Dabnitsa,41.5667,23.8333,Bulgaria,BG,Blagoevgrad,,2331,2331
+Svetovrachane,42.7833,23.4000,Bulgaria,BG,Sofia-Grad,,2327,2327
+Kitanchevo,43.7319,26.8922,Bulgaria,BG,Razgrad,,2326,2326
+Startsevo,41.4167,25.0667,Bulgaria,BG,Smolyan,,2319,2319
+Slashten,41.5000,24.0167,Bulgaria,BG,Blagoevgrad,,2318,2318
+Buzovgrad,42.5667,25.3667,Bulgaria,BG,Stara Zagora,,2307,2307
+Enina,42.6669,25.4083,Bulgaria,BG,Stara Zagora,,2294,2294
+Fotinovo,41.3731,25.3417,Bulgaria,BG,Kardzhali,,2292,2292
+Borovo,43.4907,25.8115,Bulgaria,BG,Ruse,minor,2291,2291
+Katunitsa,42.1000,24.8667,Bulgaria,BG,Plovdiv,,2288,2288
+Bratanitsa,42.1667,24.2167,Bulgaria,BG,Pazardzhik,,2250,2250
+Shiroko Pole,41.6167,25.4583,Bulgaria,BG,Kardzhali,,2228,2228
+Malko Tarnovo,41.9806,27.5236,Bulgaria,BG,Burgas,,2224,2224
+Pristoe,43.6500,27.0833,Bulgaria,BG,Shumen,,2221,2221
+Tsaratsovo,42.2000,24.6833,Bulgaria,BG,Plovdiv,,2214,2214
+Sborishte,42.6833,25.9667,Bulgaria,BG,Sliven,,2209,2209
+Polikrayshte,43.1807,25.6199,Bulgaria,BG,Veliko Tarnovo,,2182,2182
+Koprivshtitsa,42.6401,24.3583,Bulgaria,BG,Sofia,,2182,2182
+Batanovtsi,42.6000,22.9500,Bulgaria,BG,Pernik,,2178,2178
+Chernomorets,42.4444,27.6387,Bulgaria,BG,Burgas,,2177,2177
+Aheloy,42.6489,27.6481,Bulgaria,BG,Burgas,,2171,2171
+Belovets,43.8167,26.3833,Bulgaria,BG,Razgrad,,2168,2168
+Borovan,43.4277,23.7542,Bulgaria,BG,Vratsa,,2167,2167
+Musomishta,41.5531,23.7476,Bulgaria,BG,Blagoevgrad,,2163,2163
+Isperihovo,42.0833,24.4333,Bulgaria,BG,Pazardzhik,,2156,2156
+Krushare,42.5500,26.3667,Bulgaria,BG,Sliven,,2155,2155
+Garmen,41.5982,23.8032,Bulgaria,BG,Blagoevgrad,,2153,2153
+Dragichevo,42.6167,23.1833,Bulgaria,BG,Sofia-Grad,,2149,2149
+Semchinovo,42.1789,24.0975,Bulgaria,BG,Pazardzhik,,2130,2130
+Pordim,43.3781,24.8476,Bulgaria,BG,Pleven,,2107,2107
+Voyvodinovo,42.1999,24.7942,Bulgaria,BG,Plovdiv,,2090,2090
+Obzor,42.8230,27.8787,Bulgaria,BG,Burgas,,2076,2076
+Lazhnitsa,41.6167,23.6833,Bulgaria,BG,Blagoevgrad,,2066,2066
+Ayrovo,41.6167,25.3667,Bulgaria,BG,Kardzhali,,2059,2059
+Tetovo,43.8167,26.2833,Bulgaria,BG,Razgrad,,2059,2059
+Laki,41.8326,24.8315,Bulgaria,BG,Plovdiv,,2047,2047
+Harlets,43.7000,23.8333,Bulgaria,BG,Vratsa,,2044,2044
+Chernogorovo,42.2772,24.3981,Bulgaria,BG,Pazardzhik,,2043,2043
+Medovets,43.0000,27.1333,Bulgaria,BG,Varna,,2028,2028
+Yahinovo,42.2833,23.1500,Bulgaria,BG,Kyustendil,,2020,2020
+Gabarevo,42.6167,25.1667,Bulgaria,BG,Stara Zagora,,2012,2012
+Sheynovo,42.6833,25.3167,Bulgaria,BG,Stara Zagora,,2008,2008
+Chalakovi,42.1500,25.0167,Bulgaria,BG,Plovdiv,,1994,1994
+Vladimirovtsi,43.6333,26.8667,Bulgaria,BG,Razgrad,,1984,1984
+Gorni Dabnik,43.3833,24.3500,Bulgaria,BG,Pleven,,1983,1983
+Tranak,42.9500,27.2167,Bulgaria,BG,Burgas,,1981,1981
+Pletena,41.6383,23.9578,Bulgaria,BG,Blagoevgrad,,1976,1976
+Balgarovo,42.6201,27.3059,Bulgaria,BG,Burgas,,1952,1952
+Glavinitsa,43.9116,26.8345,Bulgaria,BG,Silistra,,1952,1952
+Mokrishte,42.1833,24.2833,Bulgaria,BG,Pazardzhik,,1949,1949
+Gorno Prahovo,41.6456,25.1595,Bulgaria,BG,Kardzhali,,1946,1946
+Aleksandrovo,43.2500,24.9500,Bulgaria,BG,Lovech,,1945,1945
+Petarch,42.8333,23.1333,Bulgaria,BG,Sofia,,1940,1940
+Bisertsi,43.8842,26.5036,Bulgaria,BG,Razgrad,,1931,1931
+Sinitovo,42.1500,24.3667,Bulgaria,BG,Pazardzhik,,1927,1927
+Timarevo,43.4000,26.8833,Bulgaria,BG,Shumen,,1920,1920
+Mramor,42.7861,23.2736,Bulgaria,BG,Sofia-Grad,,1915,1915
+Opalchensko,41.6000,25.3667,Bulgaria,BG,Kardzhali,,1887,1887
+Suhindol,43.1917,25.1808,Bulgaria,BG,Veliko Tarnovo,,1886,1886
+Zvanichevo,42.1833,24.2500,Bulgaria,BG,Pazardzhik,,1885,1885
+Oreshak,42.8833,24.7667,Bulgaria,BG,Lovech,,1881,1881
+Kocherinovo,42.0856,23.0581,Bulgaria,BG,Kyustendil,,1879,1879
+Veselina,43.4500,26.6833,Bulgaria,BG,Razgrad,,1876,1876
+Most,41.7350,25.5211,Bulgaria,BG,Kardzhali,,1874,1874
+Byala Reka,43.0000,26.7667,Bulgaria,BG,Shumen,,1870,1870
+Polkovnik Zhelyazovo,41.4657,25.6724,Bulgaria,BG,Kardzhali,,1860,1860
+Gradezhnitsa,43.0167,24.2333,Bulgaria,BG,Lovech,,1858,1858
+Okorsh,43.7500,27.0333,Bulgaria,BG,Silistra,,1858,1858
+Popintsi,42.4167,24.2833,Bulgaria,BG,Pazardzhik,,1853,1853
+Nova Cherna,44.0108,26.5000,Bulgaria,BG,Silistra,,1853,1853
+Brestnik,42.0500,24.7667,Bulgaria,BG,Plovdiv,,1841,1841
+Gigen,43.7000,24.4833,Bulgaria,BG,Pleven,,1836,1836
+Debelt,42.4021,27.2604,Bulgaria,BG,Burgas,,1835,1835
+Kraynitsi,42.3167,23.2000,Bulgaria,BG,Kyustendil,,1834,1834
+Smilyan,41.5000,24.7500,Bulgaria,BG,Smolyan,,1834,1834
+Slokoshtitsa,42.2667,22.7072,Bulgaria,BG,Kyustendil,,1832,1832
+Kokalyane,42.5833,23.4167,Bulgaria,BG,Sofia-Grad,,1827,1827
+Radanovo,43.3399,25.6366,Bulgaria,BG,Veliko Tarnovo,,1825,1825
+Hrishteni,42.4500,25.7000,Bulgaria,BG,Stara Zagora,,1818,1818
+Litakovo,42.9500,23.6833,Bulgaria,BG,Sofia,,1818,1818
+Chernolik,43.8667,27.0833,Bulgaria,BG,Silistra,,1812,1812
+Zheglartsi,43.6667,27.4000,Bulgaria,BG,Dobrich,,1810,1810
+Malorad,43.4889,23.6875,Bulgaria,BG,Vratsa,,1808,1808
+Resen,43.2000,25.5500,Bulgaria,BG,Veliko Tarnovo,,1805,1805
+Hristo-Danovo,42.7333,24.6000,Bulgaria,BG,Plovdiv,,1800,1800
+Barutin,41.6000,24.1833,Bulgaria,BG,Smolyan,,1791,1791
+Kostievo,42.1766,24.6237,Bulgaria,BG,Plovdiv,,1788,1788
+Korten,42.5500,26.0000,Bulgaria,BG,Sliven,,1784,1784
+Chiprovtsi,43.3846,22.8825,Bulgaria,BG,Montana,,1783,1783
+Karageorgievo,42.7357,27.1845,Bulgaria,BG,Burgas,,1781,1781
+Lehchevo,43.5333,23.5333,Bulgaria,BG,Montana,,1778,1778
+Komuniga,41.8000,25.2330,Bulgaria,BG,Kardzhali,,1777,1777
+Gruevo,41.5661,25.4055,Bulgaria,BG,Kardzhali,,1773,1773
+Asenovtsi,43.3167,25.1000,Bulgaria,BG,Pleven,,1769,1769
+Mortagonovo,43.5167,26.6500,Bulgaria,BG,Razgrad,,1767,1767
+Antonovo,43.1500,26.1667,Bulgaria,BG,Targovishte,,1752,1752
+Karnalovo,41.4634,23.2236,Bulgaria,BG,Blagoevgrad,,1744,1744
+Iskrets,42.9833,23.2500,Bulgaria,BG,Sofia,,1743,1743
+Gorna Mitropolia,43.4667,24.4500,Bulgaria,BG,Pleven,,1740,1740
+Zgorigrad,43.1801,23.5169,Bulgaria,BG,Vratsa,,1737,1737
+Brezovo,42.3488,25.0768,Bulgaria,BG,Plovdiv,,1735,1735
+Izgrev,43.5833,27.0000,Bulgaria,BG,Shumen,,1734,1734
+Vakarel,42.5500,23.7167,Bulgaria,BG,Sofia,,1730,1730
+Belogradets,43.3521,27.3312,Bulgaria,BG,Varna,,1729,1729
+Popitsa,43.4271,23.9559,Bulgaria,BG,Vratsa,,1728,1728
+Seliminovo,42.6500,26.1500,Bulgaria,BG,Sliven,,1727,1727
+Karamantsi,41.8344,25.3294,Bulgaria,BG,Haskovo,,1726,1726
+Uzundzhovo,41.9631,25.6558,Bulgaria,BG,Haskovo,,1721,1721
+Graf Ignatievo,42.2833,24.7500,Bulgaria,BG,Plovdiv,,1715,1715
+Stremtsi,41.7333,25.4167,Bulgaria,BG,Kardzhali,,1711,1711
+Busmantsi,42.6833,23.4333,Bulgaria,BG,Sofia-Grad,,1710,1710
+Merichleri,42.1329,25.4993,Bulgaria,BG,Haskovo,,1709,1709
+Sashevo,43.3014,25.6497,Bulgaria,BG,Veliko Tarnovo,,1709,1709
+Medkovets,43.6333,23.1833,Bulgaria,BG,Montana,minor,1706,1706
+Mogilyane,41.3667,25.2333,Bulgaria,BG,Kardzhali,,1701,1701
+Golesh,43.9500,27.6167,Bulgaria,BG,Silistra,,1700,1700
+Lesnovo,42.6333,23.6333,Bulgaria,BG,Sofia,,1690,1690
+Samoranovo,42.2500,23.1667,Bulgaria,BG,Kyustendil,,1687,1687
+Skravena,42.9519,23.7678,Bulgaria,BG,Sofia,,1687,1687
+Kermen,42.5003,26.2590,Bulgaria,BG,Sliven,,1681,1681
+Plachkovtsi,42.8255,25.4832,Bulgaria,BG,Gabrovo,,1681,1681
+Divotino,42.6667,23.0500,Bulgaria,BG,Pernik,,1681,1681
+Glogovo,42.9667,24.2333,Bulgaria,BG,Lovech,,1679,1679
+Galiche,43.5602,23.8640,Bulgaria,BG,Vratsa,,1679,1679
+Pchelnik,43.0133,27.6686,Bulgaria,BG,Varna,,1673,1673
+Lyuben Karavelovo,43.3500,27.7833,Bulgaria,BG,Varna,,1670,1670
+Dolni Tsibar,43.8167,23.5167,Bulgaria,BG,Montana,,1666,1666
+Muldava,41.9833,24.9500,Bulgaria,BG,Plovdiv,,1665,1665
+Kavrakirovo,41.4333,23.1667,Bulgaria,BG,Blagoevgrad,,1659,1659
+Milkovitsa,43.6333,24.7500,Bulgaria,BG,Pleven,,1655,1655
+Sredishte,43.9000,27.4833,Bulgaria,BG,Silistra,,1654,1654
+Ovoshtnik,42.5833,25.4500,Bulgaria,BG,Stara Zagora,,1650,1650
+Stavertsi,43.5667,24.2833,Bulgaria,BG,Pleven,,1639,1639
+Boyantsi,42.0500,24.9500,Bulgaria,BG,Plovdiv,,1637,1637
+Venets,43.5500,26.9333,Bulgaria,BG,Shumen,,1627,1627
+Stroevo,42.2333,24.6833,Bulgaria,BG,Plovdiv,,1623,1623
+Maglen,42.7273,27.3702,Bulgaria,BG,Burgas,,1622,1622
+Dolno Osenovo,41.9552,23.2406,Bulgaria,BG,Blagoevgrad,,1610,1610
+Petarnitsa,43.3267,24.4728,Bulgaria,BG,Pleven,,1598,1598
+Bachevo,41.9219,23.4528,Bulgaria,BG,Blagoevgrad,,1597,1597
+Vransko,41.4830,25.6426,Bulgaria,BG,Kardzhali,,1597,1597
+Dushevo,42.9667,25.0333,Bulgaria,BG,Gabrovo,,1587,1587
+Kukorevo,42.4500,26.5333,Bulgaria,BG,Yambol,,1583,1583
+Zverino,43.0833,23.5500,Bulgaria,BG,Vratsa,,1578,1578
+Bistritsa,42.2333,23.1667,Bulgaria,BG,Kyustendil,,1576,1576
+Vetren Dol,42.1500,24.1500,Bulgaria,BG,Pazardzhik,,1570,1570
+Razhitsa,42.7833,27.4000,Bulgaria,BG,Burgas,,1563,1563
+Varbovka,43.2333,25.2000,Bulgaria,BG,Veliko Tarnovo,,1554,1554
+Kamburovo,43.1000,26.3333,Bulgaria,BG,Targovishte,,1553,1553
+Sveta Petka,42.0333,23.8667,Bulgaria,BG,Pazardzhik,,1553,1553
+Radomirtsi,43.2472,24.1956,Bulgaria,BG,Pleven,,1542,1542
+Stozher,43.4500,27.8167,Bulgaria,BG,Dobrich,,1540,1540
+Gorno Sakhrane,42.6500,25.2167,Bulgaria,BG,Stara Zagora,,1535,1535
+Boychinovtsi,43.4719,23.3356,Bulgaria,BG,Montana,minor,1532,1532
+Anton,42.7500,24.2833,Bulgaria,BG,Sofia,,1522,1522
+Toros,43.1000,24.2833,Bulgaria,BG,Lovech,,1515,1515
+Yunatsite,42.2333,24.2667,Bulgaria,BG,Pazardzhik,,1513,1513
+Orizare,42.7498,27.6204,Bulgaria,BG,Burgas,,1511,1511
+Zheleznitsa,42.5333,23.3667,Bulgaria,BG,Sofia-Grad,,1508,1508
+Yakimovo,43.6347,23.3536,Bulgaria,BG,Montana,,1508,1508
+Ivanski,43.1333,27.0333,Bulgaria,BG,Shumen,,1505,1505
+Yabalchevo,42.7833,27.2500,Bulgaria,BG,Burgas,,1495,1495
+Dabene,42.6000,24.7667,Bulgaria,BG,Plovdiv,,1494,1494
+Trivoditsi,42.1358,24.4661,Bulgaria,BG,Plovdiv,,1490,1490
+Grivitsa,43.4167,24.7000,Bulgaria,BG,Pleven,,1488,1488
+Trastenik,43.6582,25.8400,Bulgaria,BG,Ruse,,1485,1485
+Krepcha,43.4833,26.1333,Bulgaria,BG,Targovishte,,1480,1480
+Chelopech,42.7000,24.0833,Bulgaria,BG,Sofia,,1479,1479
+Osetenovo,42.6000,25.0333,Bulgaria,BG,Stara Zagora,,1479,1479
+Stratsin,42.7667,27.4667,Bulgaria,BG,Burgas,,1477,1477
+Mirkovo,42.7000,23.9833,Bulgaria,BG,Sofia,,1477,1477
+Dragor,42.2333,24.3000,Bulgaria,BG,Pazardzhik,,1474,1474
+Oresh,43.5773,25.2436,Bulgaria,BG,Veliko Tarnovo,,1471,1471
+Zemen,42.4789,22.7500,Bulgaria,BG,Pernik,,1470,1470
+Kesarevo,43.1526,25.9681,Bulgaria,BG,Veliko Tarnovo,,1468,1468
+Vazovo,43.7667,26.8167,Bulgaria,BG,Razgrad,,1464,1464
+Tarnak,43.4500,24.0333,Bulgaria,BG,Vratsa,,1457,1457
+Obretenik,43.5808,25.8092,Bulgaria,BG,Ruse,,1457,1457
+Mirovyane,42.7833,23.3000,Bulgaria,BG,Sofia-Grad,,1454,1454
+Gornik,43.2833,24.0333,Bulgaria,BG,Pleven,,1454,1454
+Alfatar,43.9467,27.2911,Bulgaria,BG,Silistra,minor,1447,1447
+Negovan,42.7688,23.4064,Bulgaria,BG,Sofia-Grad,,1445,1445
+Tserovo,43.0038,23.3479,Bulgaria,BG,Sofia,,1437,1437
+Govedare,42.1500,24.5000,Bulgaria,BG,Pazardzhik,,1435,1435
+Senovo,43.6480,26.3615,Bulgaria,BG,Ruse,,1434,1434
+Chintulovo,42.6500,26.2500,Bulgaria,BG,Sliven,,1433,1433
+Zmeitsa,41.6333,24.2500,Bulgaria,BG,Smolyan,,1432,1432
+Samovodene,43.1389,25.6105,Bulgaria,BG,Veliko Tarnovo,,1430,1430
+Feldfebel Denkovo,43.7147,27.5317,Bulgaria,BG,Dobrich,,1428,1428
+Tenevo,42.3500,26.5333,Bulgaria,BG,Yambol,,1427,1427
+Tazha,42.6500,25.0833,Bulgaria,BG,Stara Zagora,,1419,1419
+Dabravino,43.0500,27.6000,Bulgaria,BG,Varna,,1411,1411
+Sklave,41.5167,23.3167,Bulgaria,BG,Blagoevgrad,,1406,1406
+Lilyache,43.3215,23.5220,Bulgaria,BG,Vratsa,,1405,1405
+Ryahovtsite,43.0167,25.0167,Bulgaria,BG,Gabrovo,,1402,1402
+Gorski Izvor,41.3500,25.1667,Bulgaria,BG,Kardzhali,,1398,1398
+Barzia,43.1981,23.1608,Bulgaria,BG,Montana,,1396,1396
+Hvostyane,41.5500,23.8500,Bulgaria,BG,Blagoevgrad,,1396,1396
+Krushari,43.8177,27.7580,Bulgaria,BG,Dobrich,minor,1392,1392
+Krivina,42.6833,23.4667,Bulgaria,BG,Sofia-Grad,,1386,1386
+Obruchishte,42.1333,25.9333,Bulgaria,BG,Stara Zagora,,1379,1379
+Perperek,41.6861,25.5453,Bulgaria,BG,Kardzhali,,1377,1377
+Zaychar,42.7833,27.1667,Bulgaria,BG,Burgas,,1376,1376
+Partizani,43.0092,27.2510,Bulgaria,BG,Varna,,1376,1376
+Glava,43.4000,24.2000,Bulgaria,BG,Pleven,,1372,1372
+Rogach,41.4542,25.6990,Bulgaria,BG,Kardzhali,,1371,1371
+Manolich,42.8917,26.8000,Bulgaria,BG,Burgas,,1367,1367
+Maysko,42.9333,26.1500,Bulgaria,BG,Veliko Tarnovo,,1366,1366
+Gorna Kula,41.4955,25.6145,Bulgaria,BG,Kardzhali,,1365,1365
+Boyno,41.6011,25.2769,Bulgaria,BG,Kardzhali,,1364,1364
+Ludogortsi,43.6500,26.7667,Bulgaria,BG,Razgrad,,1364,1364
+Ryahovo,43.9833,26.2500,Bulgaria,BG,Ruse,,1363,1363
+Vinogradets,42.2833,24.1333,Bulgaria,BG,Pazardzhik,,1357,1357
+Leshko,41.9318,22.9788,Bulgaria,BG,Blagoevgrad,,1350,1350
+Dalboki,42.4833,25.7667,Bulgaria,BG,Stara Zagora,,1349,1349
+Bozveliysko,43.1000,27.4667,Bulgaria,BG,Varna,,1348,1348
+Byaga,42.0661,24.3775,Bulgaria,BG,Pazardzhik,,1344,1344
+Duhovets,43.6667,27.0167,Bulgaria,BG,Razgrad,,1343,1343
+Dolno Dryanovo,41.5871,23.8977,Bulgaria,BG,Blagoevgrad,,1342,1342
+Eleshnitsa,41.8677,23.6225,Bulgaria,BG,Blagoevgrad,,1342,1342
+Yonkovo,43.6333,26.7167,Bulgaria,BG,Razgrad,,1342,1342
+Dobromirtsi,41.3810,25.2098,Bulgaria,BG,Kardzhali,,1341,1341
+Potochnitsa,41.6083,25.6750,Bulgaria,BG,Kardzhali,,1341,1341
+Orizovo,42.2089,25.1703,Bulgaria,BG,Stara Zagora,,1339,1339
+Dobrovnitsa,42.2167,24.3833,Bulgaria,BG,Pazardzhik,,1336,1336
+Tsarev Brod,43.3333,27.0167,Bulgaria,BG,Shumen,,1334,1334
+Chakalarovo,41.3111,25.3139,Bulgaria,BG,Kardzhali,,1334,1334
+Drenovets,43.6931,22.9806,Bulgaria,BG,Vidin,minor,1327,1327
+Nedan,43.3033,25.2666,Bulgaria,BG,Veliko Tarnovo,,1326,1326
+Paprat,41.5155,25.2780,Bulgaria,BG,Kardzhali,,1324,1324
+Bezhanovo,43.2333,24.4000,Bulgaria,BG,Lovech,,1321,1321
+Zagoriche,43.7000,27.0833,Bulgaria,BG,Shumen,,1321,1321
+Paisievo,43.7833,26.9667,Bulgaria,BG,Silistra,,1318,1318
+Kitna,41.3833,25.2667,Bulgaria,BG,Kardzhali,,1317,1317
+Gorna Malina,42.6936,23.7061,Bulgaria,BG,Sofia,,1315,1315
+Gramada,43.8348,22.6610,Bulgaria,BG,Vidin,minor,1315,1315
+Zvezdel,41.4762,25.5259,Bulgaria,BG,Kardzhali,,1311,1311
+Drumevo,43.1333,27.1500,Bulgaria,BG,Shumen,,1311,1311
+Zvanarka,41.4500,25.6333,Bulgaria,BG,Kardzhali,,1309,1309
+Malchika,43.4167,25.1000,Bulgaria,BG,Pleven,,1309,1309
+Lilyak,43.2300,26.4792,Bulgaria,BG,Targovishte,,1308,1308
+Balgarski Izvor,43.0333,24.2833,Bulgaria,BG,Lovech,,1307,1307
+Dzherman,42.2167,23.0833,Bulgaria,BG,Kyustendil,,1304,1304
+Sokolino,41.5132,25.4314,Bulgaria,BG,Kardzhali,,1304,1304
+Zlatitrap,42.1167,24.6333,Bulgaria,BG,Plovdiv,,1302,1302
+Iskra,41.9333,25.1333,Bulgaria,BG,Plovdiv,,1300,1300
+Zhinzifovo,41.6647,25.4864,Bulgaria,BG,Kardzhali,,1299,1299
+Hayredin,43.6000,23.6667,Bulgaria,BG,Vratsa,minor,1299,1299
+Koprivlen,41.5204,23.7949,Bulgaria,BG,Blagoevgrad,,1298,1298
+Polenitsa,41.5667,23.3000,Bulgaria,BG,Blagoevgrad,,1297,1297
+Semerdzhievo,43.7667,26.1667,Bulgaria,BG,Ruse,,1295,1295
+Mlechino,41.6247,25.1736,Bulgaria,BG,Kardzhali,,1294,1294
+Ostrov,43.6755,24.1300,Bulgaria,BG,Vratsa,,1293,1293
+Dobromir,42.9500,27.3000,Bulgaria,BG,Burgas,,1292,1292
+Vaklinovo,41.5959,24.0636,Bulgaria,BG,Blagoevgrad,,1288,1288
+Vladimirovo,43.5333,23.3833,Bulgaria,BG,Montana,,1288,1288
+Morozovo,42.5736,25.3164,Bulgaria,BG,Stara Zagora,,1286,1286
+Karabunar,42.2658,24.1751,Bulgaria,BG,Pazardzhik,,1285,1285
+Kobilyane,41.5970,25.2355,Bulgaria,BG,Kardzhali,,1284,1284
+Tulovo,42.5833,25.5500,Bulgaria,BG,Stara Zagora,,1284,1284
+Chernevo,43.3000,27.6000,Bulgaria,BG,Varna,,1284,1284
+Popovitsa,42.1356,25.0567,Bulgaria,BG,Plovdiv,,1283,1283
+Bazan,43.7333,26.1167,Bulgaria,BG,Ruse,,1282,1282
+Belomortsi,43.1333,26.4333,Bulgaria,BG,Targovishte,,1281,1281
+Razhevo Konare,42.3333,24.8000,Bulgaria,BG,Plovdiv,,1281,1281
+Bozhan,43.7600,27.4570,Bulgaria,BG,Dobrich,,1279,1279
+Golyamo Gradishte,43.4500,26.0500,Bulgaria,BG,Targovishte,,1279,1279
+Sofronievo,43.6365,23.7867,Bulgaria,BG,Vratsa,,1279,1279
+Zlatar,43.1000,26.9667,Bulgaria,BG,Shumen,,1277,1277
+Damyanitsa,41.5167,23.2667,Bulgaria,BG,Blagoevgrad,,1276,1276
+Benkovski,42.2167,24.6500,Bulgaria,BG,Plovdiv,,1273,1273
+Mineralni Bani,41.9333,25.3500,Bulgaria,BG,Haskovo,,1273,1273
+Radilovo,42.0833,24.3000,Bulgaria,BG,Pazardzhik,,1272,1272
+Beli Lom,43.4333,26.7167,Bulgaria,BG,Razgrad,,1270,1270
+Baniska,43.4581,25.9014,Bulgaria,BG,Ruse,,1269,1269
+Kanchevo,42.5333,25.4500,Bulgaria,BG,Stara Zagora,,1266,1266
+Kranevo,43.3418,28.0538,Bulgaria,BG,Dobrich,,1264,1264
+Lopushna,43.0045,27.1863,Bulgaria,BG,Varna,,1264,1264
+Staliyska Mahala,43.7383,23.1642,Bulgaria,BG,Montana,,1263,1263
+Kirchevo,42.9833,24.3667,Bulgaria,BG,Lovech,,1262,1262
+Shipka,42.7103,25.3356,Bulgaria,BG,Stara Zagora,,1261,1261
+Ahtopol,42.1003,27.9414,Bulgaria,BG,Burgas,,1261,1261
+Tankovo,42.6946,27.6496,Bulgaria,BG,Burgas,,1258,1258
+Gorno Kraishte,41.9000,23.5833,Bulgaria,BG,Blagoevgrad,,1254,1254
+Ruets,43.2131,26.6233,Bulgaria,BG,Targovishte,,1254,1254
+Sipey,41.6500,25.4000,Bulgaria,BG,Kardzhali,,1253,1253
+Rezbartsi,41.6193,25.3591,Bulgaria,BG,Kardzhali,,1249,1249
+Aldomirovtsi,42.8500,22.9808,Bulgaria,BG,Sofia,,1249,1249
+Dinkata,42.2833,24.2333,Bulgaria,BG,Pazardzhik,,1248,1248
+Kralevo,43.1833,26.7000,Bulgaria,BG,Targovishte,,1247,1247
+Grashevo,41.9667,23.9333,Bulgaria,BG,Pazardzhik,,1245,1245
+Dabnik,42.6833,27.5000,Bulgaria,BG,Burgas,,1244,1244
+Ustren,41.4595,25.2266,Bulgaria,BG,Kardzhali,,1244,1244
+Orehovitsa,43.5833,24.3833,Bulgaria,BG,Pleven,,1243,1243
+Konstantinovo,43.1627,27.7806,Bulgaria,BG,Varna,,1239,1239
+Bortsi,43.5333,26.8833,Bulgaria,BG,Shumen,,1237,1237
+Basarbovo,43.7833,25.9500,Bulgaria,BG,Ruse,,1235,1235
+Zhelyazkovets,43.5167,26.7000,Bulgaria,BG,Razgrad,,1232,1232
+Vresovo,42.8124,27.1985,Bulgaria,BG,Burgas,,1230,1230
+Minzuhar,41.7667,25.4000,Bulgaria,BG,Kardzhali,,1228,1228
+Kozlovets,43.5000,25.3667,Bulgaria,BG,Veliko Tarnovo,,1227,1227
+Katuntsi,41.4423,23.4274,Bulgaria,BG,Blagoevgrad,,1226,1226
+Marikostinovo,41.4308,23.3428,Bulgaria,BG,Blagoevgrad,,1226,1226
+Novachene,42.9667,23.7167,Bulgaria,BG,Sofia,,1224,1224
+Dolni Bogrov,42.7000,23.5000,Bulgaria,BG,Sofia-Grad,,1223,1223
+Pirgovo,43.7333,25.8667,Bulgaria,BG,Ruse,,1221,1221
+Kovachitsa,43.8000,23.3603,Bulgaria,BG,Montana,,1218,1218
+Byala,42.7333,26.1833,Bulgaria,BG,Sliven,,1214,1214
+Visoka Polyana,41.6667,25.5167,Bulgaria,BG,Kardzhali,,1213,1213
+Takach,43.6000,27.0333,Bulgaria,BG,Shumen,,1211,1211
+Rudartsi,42.5833,23.1667,Bulgaria,BG,Pernik,,1207,1207
+Kosharitsa,42.7500,27.7000,Bulgaria,BG,Burgas,,1207,1207
+Starovo,41.4165,25.3155,Bulgaria,BG,Kardzhali,,1205,1205
+Dalbok Izvor,42.0333,25.1000,Bulgaria,BG,Plovdiv,,1204,1204
+Tserovishte,43.0500,26.5833,Bulgaria,BG,Targovishte,,1201,1201
+Boyadzhik,42.4000,26.3000,Bulgaria,BG,Yambol,,1199,1199
+Yurukovo,41.9729,23.6159,Bulgaria,BG,Blagoevgrad,,1198,1198
+Varben,41.4058,25.3674,Bulgaria,BG,Kardzhali,,1197,1197
+Chavdar,42.6500,24.0500,Bulgaria,BG,Sofia,,1195,1195
+Bata,42.7333,27.5000,Bulgaria,BG,Burgas,,1193,1193
+Sindel,43.1102,27.6051,Bulgaria,BG,Varna,,1192,1192
+Yabalkovo,42.0667,25.4333,Bulgaria,BG,Haskovo,,1190,1190
+Banitsa,43.3439,23.6902,Bulgaria,BG,Vratsa,,1190,1190
+Karapelit,43.6500,27.5667,Bulgaria,BG,Dobrich,,1185,1185
+Tihomir,41.3000,25.5000,Bulgaria,BG,Kardzhali,,1183,1183
+Novo Selo,43.8000,26.1833,Bulgaria,BG,Ruse,,1176,1176
+Filaretovo,42.9833,26.5000,Bulgaria,BG,Sliven,,1175,1175
+Razhena,42.5333,25.5000,Bulgaria,BG,Stara Zagora,,1171,1171
+Sandrovo,43.9330,26.1170,Bulgaria,BG,Ruse,,1170,1170
+Prelez,43.8333,26.6833,Bulgaria,BG,Razgrad,,1169,1169
+Popgruevo,43.7417,27.4812,Bulgaria,BG,Dobrich,,1168,1168
+Gara Lakatnik,43.0833,23.3833,Bulgaria,BG,Sofia,,1168,1168
+Sveshtari,43.7500,26.7833,Bulgaria,BG,Razgrad,,1168,1168
+Belasitsa,41.3667,23.1333,Bulgaria,BG,Blagoevgrad,,1167,1167
+Govedartsi,42.2500,23.4833,Bulgaria,BG,Sofia,,1167,1167
+Balgarevo,43.4026,28.4130,Bulgaria,BG,Dobrich,,1167,1167
+Vlado Trichkov,42.8667,23.3667,Bulgaria,BG,Sofia,,1167,1167
+Pokrayna,44.0315,22.9074,Bulgaria,BG,Vidin,,1165,1165
+Pasarel,42.5333,23.5000,Bulgaria,BG,Sofia-Grad,,1164,1164
+Gradets,44.0333,22.7500,Bulgaria,BG,Vidin,,1162,1162
+Byala Palanka,42.7667,26.1000,Bulgaria,BG,Sliven,,1162,1162
+Konstantin,42.9479,26.0737,Bulgaria,BG,Veliko Tarnovo,,1162,1162
+Chiflik,41.6855,25.4991,Bulgaria,BG,Kardzhali,,1161,1161
+Vaglen,43.2944,27.8488,Bulgaria,BG,Varna,,1161,1161
+Sredkovets,43.6833,27.0333,Bulgaria,BG,Shumen,,1159,1159
+Vedrare,42.5833,24.8833,Bulgaria,BG,Plovdiv,,1158,1158
+Boboshevo,42.1505,23.0020,Bulgaria,BG,Kyustendil,,1156,1156
+Resilovo,42.2667,23.2000,Bulgaria,BG,Kyustendil,,1155,1155
+Zamfirovo,43.2958,23.2422,Bulgaria,BG,Montana,,1153,1153
+Dabovo,42.6000,25.6500,Bulgaria,BG,Stara Zagora,,1152,1152
+Vardun,43.1339,26.5339,Bulgaria,BG,Targovishte,,1148,1148
+Marchaevo,42.6000,23.1833,Bulgaria,BG,Sofia-Grad,,1146,1146
+Momchilovtsi,41.6589,24.7744,Bulgaria,BG,Smolyan,,1143,1143
+Sindeltsi,41.4641,25.5750,Bulgaria,BG,Kardzhali,,1142,1142
+Ruyno,43.8333,27.0333,Bulgaria,BG,Silistra,,1140,1140
+Prileptsi,41.6268,25.3458,Bulgaria,BG,Kardzhali,,1138,1138
+Brestnitsa,43.0667,24.1833,Bulgaria,BG,Lovech,,1137,1137
+Yana,42.7333,23.5667,Bulgaria,BG,Sofia-Grad,,1133,1133
+Lyaskovets,41.7167,25.7000,Bulgaria,BG,Haskovo,,1132,1132
+Petlino,41.6000,25.3500,Bulgaria,BG,Kardzhali,,1128,1128
+Klisura,42.7000,24.4500,Bulgaria,BG,Plovdiv,,1126,1126
+Bolyarovo,42.1504,26.8115,Bulgaria,BG,Yambol,,1125,1125
+Petko Slaveykov,43.0500,24.9667,Bulgaria,BG,Gabrovo,,1124,1124
+Gorni Bogrov,42.7167,23.5333,Bulgaria,BG,Sofia-Grad,,1118,1118
+Dzhurovo,42.9333,24.0500,Bulgaria,BG,Sofia,,1118,1118
+Gavrailovo,42.6500,26.1833,Bulgaria,BG,Sliven,,1116,1116
+Elhovets,41.4500,24.8000,Bulgaria,BG,Smolyan,,1113,1113
+Zidarovo,42.3275,27.4025,Bulgaria,BG,Burgas,,1108,1108
+Mishevsko,41.5267,25.2396,Bulgaria,BG,Kardzhali,,1107,1107
+Dimovo,43.7415,22.7267,Bulgaria,BG,Vidin,minor,1107,1107
+Patalenitsa,42.1167,24.2000,Bulgaria,BG,Pazardzhik,,1106,1106
+Ekzarh-Antimovo,42.5333,26.9833,Bulgaria,BG,Burgas,,1106,1106
+Novo Delchevo,41.5060,23.2839,Bulgaria,BG,Blagoevgrad,,1105,1105
+Obitel,43.0667,26.5667,Bulgaria,BG,Targovishte,,1103,1103
+Pisarevo,43.1500,25.7833,Bulgaria,BG,Veliko Tarnovo,,1099,1099
+Zhilentsi,42.2667,22.6500,Bulgaria,BG,Kyustendil,,1098,1098
+Tushovtsa,43.0167,26.8000,Bulgaria,BG,Shumen,,1098,1098
+Kichenitsa,43.6044,26.5064,Bulgaria,BG,Razgrad,,1097,1097
+Madrevo,43.8667,26.5500,Bulgaria,BG,Razgrad,,1097,1097
+Brusartsi,43.6667,23.0667,Bulgaria,BG,Montana,minor,1094,1094
+Altimir,43.5330,23.7998,Bulgaria,BG,Vratsa,,1094,1094
+Krastava,41.9609,23.8205,Bulgaria,BG,Pazardzhik,,1091,1091
+Katina,42.8433,23.3194,Bulgaria,BG,Sofia-Grad,,1088,1088
+Dobri Dyal,43.1167,25.8333,Bulgaria,BG,Veliko Tarnovo,,1085,1085
+Rusokastro,42.4656,27.1866,Bulgaria,BG,Burgas,,1083,1083
+Cherniche,41.8500,23.1333,Bulgaria,BG,Blagoevgrad,,1083,1083
+Kaloyantsi,41.6662,25.5541,Bulgaria,BG,Kardzhali,,1080,1080
+Oborishte,42.5167,24.0833,Bulgaria,BG,Pazardzhik,,1080,1080
+Karadzhalovo,42.0833,25.2833,Bulgaria,BG,Plovdiv,,1080,1080
+Novachene,43.5500,24.9333,Bulgaria,BG,Pleven,,1080,1080
+Dobroslavtsi,42.8167,23.2833,Bulgaria,BG,Sofia-Grad,,1078,1078
+Gyulyovtsa,42.7667,27.6000,Bulgaria,BG,Burgas,,1077,1077
+Marinka,42.4015,27.4821,Bulgaria,BG,Burgas,,1076,1076
+Cherven Breg,42.3111,23.1731,Bulgaria,BG,Kyustendil,,1075,1075
+Tsarevets,43.5863,25.3644,Bulgaria,BG,Veliko Tarnovo,,1075,1075
+Novachevo,42.7500,26.1500,Bulgaria,BG,Sliven,,1075,1075
+Hadzhievo,42.1431,24.4553,Bulgaria,BG,Pazardzhik,,1073,1073
+Rasovo,43.7000,23.2333,Bulgaria,BG,Montana,,1072,1072
+Zvezditsa,43.1558,27.8372,Bulgaria,BG,Varna,,1071,1071
+Varbitsa,43.1833,25.8167,Bulgaria,BG,Veliko Tarnovo,,1071,1071
+Tarnicheni,42.6167,25.1167,Bulgaria,BG,Stara Zagora,,1070,1070
+Gorno Dryanovo,41.6515,23.8283,Bulgaria,BG,Blagoevgrad,,1069,1069
+Sekulovo,43.7000,27.1667,Bulgaria,BG,Silistra,,1069,1069
+Zhivkovo,43.4500,27.0333,Bulgaria,BG,Shumen,,1069,1069
+Karadzhovo,42.1000,24.9000,Bulgaria,BG,Plovdiv,,1068,1068
+Topchiysko,42.8520,27.3439,Bulgaria,BG,Burgas,,1062,1062
+Voynyagovo,42.5667,24.7500,Bulgaria,BG,Plovdiv,,1060,1060
+Nanovitsa,41.5500,25.5667,Bulgaria,BG,Kardzhali,,1058,1058
+General Geshevo,41.4340,25.1940,Bulgaria,BG,Kardzhali,,1058,1058
+Kadievo,42.1333,24.6000,Bulgaria,BG,Plovdiv,,1057,1057
+Beli Vir,41.7333,25.3000,Bulgaria,BG,Kardzhali,,1056,1056
+Konche,41.4500,25.5333,Bulgaria,BG,Kardzhali,,1054,1054
+Gabare,43.3167,23.9167,Bulgaria,BG,Vratsa,,1053,1053
+Topolitsa,42.7366,27.1251,Bulgaria,BG,Burgas,,1051,1051
+Mihnevo,41.4534,23.1959,Bulgaria,BG,Blagoevgrad,,1051,1051
+Sestrimo,42.2167,23.9167,Bulgaria,BG,Pazardzhik,,1049,1049
+Rupite,41.4419,23.2417,Bulgaria,BG,Blagoevgrad,,1048,1048
+Pchelari,41.6333,25.6833,Bulgaria,BG,Haskovo,,1045,1045
+Yabalkovets,41.6024,25.1906,Bulgaria,BG,Kardzhali,,1042,1042
+Ridino,41.4397,25.2822,Bulgaria,BG,Kardzhali,,1042,1042
+Plastina,43.0667,26.6167,Bulgaria,BG,Targovishte,,1036,1036
+Nikola-Kozlevo,43.5667,27.2333,Bulgaria,BG,Shumen,,1034,1034
+Gabrovo,41.7970,25.2701,Bulgaria,BG,Kardzhali,,1028,1028
+Dolno Cherkovishte,41.6333,25.7500,Bulgaria,BG,Kardzhali,,1025,1025
+Kladnitsa,42.5667,23.1833,Bulgaria,BG,Pernik,,1025,1025
+Kolobar,43.7833,27.1833,Bulgaria,BG,Silistra,,1025,1025
+Stambolovo,41.7667,25.6500,Bulgaria,BG,Haskovo,,1023,1023
+Tarnene,43.3967,24.5153,Bulgaria,BG,Pleven,,1023,1023
+Zhabokrat,42.3028,22.7581,Bulgaria,BG,Kyustendil,,1022,1022
+Glozhene,42.9833,24.1833,Bulgaria,BG,Lovech,,1021,1021
+Varbina,41.5667,24.9667,Bulgaria,BG,Smolyan,,1020,1020
+Shishmanovo,41.9833,25.9333,Bulgaria,BG,Haskovo,,1019,1019
+Pelin,41.4675,25.7319,Bulgaria,BG,Kardzhali,,1018,1018
+Preseka,41.3833,25.1833,Bulgaria,BG,Kardzhali,,1017,1017
+Gusla,43.6667,27.0500,Bulgaria,BG,Shumen,,1017,1017
+Bozhuritsa,43.5167,24.6000,Bulgaria,BG,Pleven,,1017,1017
+Yavornitsa,41.3681,23.0509,Bulgaria,BG,Blagoevgrad,,1014,1014
+Trem,43.4500,26.8000,Bulgaria,BG,Shumen,,1013,1013
+Klyuch,41.3622,23.0214,Bulgaria,BG,Blagoevgrad,,1012,1012
+Telerig,43.8500,27.6667,Bulgaria,BG,Dobrich,,1011,1011
+Voysil,42.2167,24.6333,Bulgaria,BG,Plovdiv,,1007,1007
+Drangovo,41.3333,25.2500,Bulgaria,BG,Kardzhali,,1006,1006
+Mramoren,43.3000,23.6833,Bulgaria,BG,Vratsa,,1005,1005
+Chomakovtsi,43.3167,24.0667,Bulgaria,BG,Pleven,,1005,1005
+Klikach,42.7049,27.0591,Bulgaria,BG,Burgas,,1003,1003
+Madara,43.2833,27.1000,Bulgaria,BG,Shumen,,1003,1003
+Yudelnik,43.8500,26.2500,Bulgaria,BG,Ruse,,1001,1001
+Spasovo,43.7023,28.3010,Bulgaria,BG,Dobrich,minor,973,973
+Novo Selo,44.1582,22.7869,Bulgaria,BG,Vidin,minor,882,882
+Ivanovo,43.6850,25.9560,Bulgaria,BG,Ruse,minor,805,805
+Ruzhintsi,43.6239,22.8308,Bulgaria,BG,Vidin,minor,801,801
+Kirkovo,41.3300,25.3653,Bulgaria,BG,Kardzhali,minor,774,774
+Kaynardzha,43.9833,27.5000,Bulgaria,BG,Silistra,minor,644,644
+Nevestino,42.2564,22.8533,Bulgaria,BG,Kyustendil,minor,475,475
+Shiroka Laka,41.6833,24.5833,Bulgaria,BG,Smolyan,minor,448,448
+Chuprene,43.5193,22.6665,Bulgaria,BG,Vidin,minor,407,407
+Boynitsa,43.9500,22.5333,Bulgaria,BG,Vidin,minor,356,356
+Makresh,43.7680,22.6694,Bulgaria,BG,Vidin,minor,323,323
+Madan,41.4987,24.9397,Bulgaria,BG,Smolyan,minor,,
+Iskar,43.6708,24.4523,Bulgaria,BG,Pleven,minor,,
+Sitovo,44.0273,27.0198,Bulgaria,BG,Silistra,minor,,
+Tsenovo,43.5359,25.6576,Bulgaria,BG,Ruse,minor,,
+Byala,42.8743,27.8886,Bulgaria,BG,Varna,minor,,
